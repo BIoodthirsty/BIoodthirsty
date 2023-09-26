@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing websites and applications.
 - 🌱 I’m currently learning how to become a Fullstack developer.
 - 💞️ I’m looking to collaborate on progressing as a learner until I am able to work on challenging and transformative projects.
-- 📫 How to reach me via email @BIoodthirsty@catgroup.uk
+- 📫 How to reach me via email BIoodthirsty@catgroup.uk
